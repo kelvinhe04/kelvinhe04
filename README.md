@@ -45,14 +45,29 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kelvin-he-256986289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelvin-he-256986289" height="30"  /></a>  &nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/606164676845371403" target="blank"><img align="center" src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/main/icons/Discord.png" alt="kelvin0131" height="30"  /></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:kelvinhe04@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/main/icons/Gmail.webp" alt="kelvin0131" height="30"  /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/khelvinw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khelvinw" height="30" /></a>  &nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/kelvin.he.7505/?locale=es_LA" target="blank"><img align="center" src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/main/icons/Facebook.webp" alt="kelvin0131" height="30"  /></a>
+<a href="https://www.linkedin.com/in/kelvin-he-256986289/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style=" height:32px;"/>
+</a>&nbsp;&nbsp;&nbsp;
 
+<a href="https://discord.com/users/606164676845371403" target="_blank">
+  <img src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/main/icons/Discord.png" alt="Discord" style="height:32px;"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:kelvinhe04@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/main/icons/Gmail.webp" alt="Gmail" style=" height:32px;"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/khelvinw/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" style=" height:32px;"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/kelvin.he.7505/?locale=es_LA" target="_blank">
+  <img src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/main/icons/Facebook.webp" alt="Facebook" style=" height:32px;"/>
+</a>
 </p>
+
 <br>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kelvinhe04&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinhe04" /> 
 </p>
