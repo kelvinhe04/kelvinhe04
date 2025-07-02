@@ -48,6 +48,8 @@
 <a href="https://www.linkedin.com/in/kelvin-he-256986289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelvin-he-256986289" height="30"  /></a>  &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/khelvinw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khelvinw" height="30" /></a>  &nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/606164676845371403" target="blank"><img align="center" src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/main/icons/Discord.png" alt="kelvin0131" height="30"  /></a>
+<a href="https://discord.com/users/606164676845371403" target="blank"><img align="center" src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/main/icons/Gmail.png" alt="kelvin0131" height="30"  /></a>
+
 </p>
 <br>
 <p align="left"> 
