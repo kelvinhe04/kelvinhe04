@@ -40,5 +40,7 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
-  <img src="https://github.com/kelvinhe04/kelvinhe04/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/kelvinhe04/kelvinhe04/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
+
+
