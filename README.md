@@ -36,3 +36,9 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinhe04&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
        height="192px" />
 </p>
+
+## 🐍 A Snake Eating my Contributions Graph
+
+<p align="center">
+  <img src="https://github.com/kelvinhe04/kelvinhe04/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
