@@ -12,16 +12,16 @@
 
 <br><br>
 
-- 🎓 I am a `third-year student` in the **Software Development and Management** program at the [Technological University of Panama](https://utp.ac.pa/).
-- 💻 Aspiring `Fullstack Developer`, passionate about creating frontend and backend solutions.
-- 🔧 Skilled in: `Java`, `C#`, `JavaScript`, `PHP`, `Python`, `HTML`, `CSS`.
-- 🗃️ Experienced with databases like `SQL Server` and `MySQL`.
-- 👨‍💻 I love using technology to solve real-world `problems`.
-- 🌍 I speak `Spanish`, `English (B1+)`, `Mandarin (HSK4)`, and `Cantonese`.
-- 🌱 Constantly learning and adapting to `new technologies` and `agile methodologies`.
-- 🤝 Strong background in `teamwork`, `communication`, and `problem-solving`.
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
-- 📬 You can view [MY RESUME](https://github.com/kelvinhe04/kelvinhe04/raw/main/Kelvin_He_CV.pdf) or visit my [GITHUB PROFILE](https://github.com/kelvinhe04).
+- 🎓 I am a <code>third-year student</code> in the <strong>Software Development and Management</strong> program at <a href="https://utp.ac.pa/" target="_blank">Technological University of Panama</a>.
+- 💻 Aspiring <code>Fullstack Developer</code>, passionate about creating frontend and backend solutions.
+- 🔧 Skilled in: <code>Java</code>, <code>C#</code>, <code>JavaScript</code>, <code>PHP</code>, <code>Python</code>, <code>HTML</code>, <code>CSS</code>.
+- 🗃️ Experienced with databases like <code>SQL Server</code> and <code>MySQL</code>.
+- 👨‍💻 I love using technology to solve real-world <code>problems</code>.
+- 🌍 I speak <code>Spanish</code>, <code>English (B1+)</code>, <code>Mandarin (HSK4)</code>, and <code>Cantonese</code>.
+- 🌱 Constantly learning and adapting to <code>new technologies</code> and <code>agile methodologies</code>.
+- 🤝 Strong background in <code>teamwork</code>, <code>communication</code>, and <code>problem-solving</code>.
+- 💥 You can visit <a href="https://cutt.ly/Ahmed_Hossam_Website" target="_blank">MY WEBSITE</a>.
+- 📬 You can view <a href="https://github.com/kelvinhe04/kelvinhe04/raw/main/Kelvin_He_CV.pdf" target="_blank">MY RESUME</a> or visit my <a href="https://github.com/kelvinhe04" target="_blank">GITHUB PROFILE</a>.
 <br>
 
 
