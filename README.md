@@ -46,10 +46,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kelvin-he-256986289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelvin-he-256986289" height="30"  /></a>  &nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/khelvinw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khelvinw" height="30" /></a>  &nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/606164676845371403" target="blank"><img align="center" src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/main/icons/Discord.png" alt="kelvin0131" height="30"  /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/606164676845371403" target="blank"><img align="center" src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/main/icons/Gmail.webp" alt="kelvin0131" height="30"  /></a>
-<a href="https://discord.com/users/606164676845371403" target="blank"><img align="center" src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/main/icons/Gmail.webp" alt="kelvin0131" height="30"  /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:kelvinhe04@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/main/icons/Gmail.webp" alt="kelvin0131" height="30"  /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/khelvinw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khelvinw" height="30" /></a>  &nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/kelvin.he.7505/?locale=es_LA" target="blank"><img align="center" src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/main/icons/Facebook.webp" alt="kelvin0131" height="30"  /></a>
 
 </p>
 <br>
