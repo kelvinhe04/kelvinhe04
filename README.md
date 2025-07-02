@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/kelvinhe04/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23F85D7F&size=25&center=true&vCenter=true&width=700&height=100&lines=Software+Development+Student+@+UTP;Aspiring+Fullstack+Developer;Teamwork+%7C+Adaptability+%7C+Problem+Solving;Skilled+in+Java,+C%23,+JS,+PHP,+Python;Database+Management:+SQL+Server,+MySQL;Always+learning+new+technologies">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2355F532&size=25&center=true&vCenter=true&width=700&height=100&lines=Software+Development+Student+@+UTP;Aspiring+Fullstack+Developer;Teamwork+%7C+Adaptability+%7C+Problem+Solving;Skilled+in+Java,+C%23,+JS,+PHP,+Python;Database+Management:+SQL+Server,+MySQL;Always+learning+new+technologies">
   </a>
 </p>
 
