@@ -21,7 +21,7 @@
 - 🌱 Constantly learning and adapting to `new technologies` and `agile methodologies`.
 - 🤝 Strong background in `teamwork`, `communication`, and `problem-solving`.
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
-- 📬 You can view [MY RESUME](mailto:kelvinhe04@gmail.com) or visit my [GITHUB PROFILE](https://github.com/kelvinhe04).
+- 📬 You can view [MY RESUME](https://github.com/kelvinhe04/kelvinhe04/raw/main/Kelvin_He_CV.pdf) or visit my [GITHUB PROFILE](https://github.com/kelvinhe04).
 <br>
 
 
