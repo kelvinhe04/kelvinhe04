@@ -21,7 +21,7 @@
 - 🌱 Constantly learning and adapting to <code>new technologies</code> and <code>agile methodologies</code>.
 - 🤝 Strong background in <code>teamwork</code>, <code>communication</code>, and <code>problem-solving</code>.
 - 💥 You can visit <a href=" " target="_blank">MY WEBSITE</a>.
-- 📬 You can view <a href="https://github.com/kelvinhe04/kelvinhe04/raw/main/Kelvin_He_CV (2).pdf" target="_blank">MY RESUME</a> or visit my <a href="https://github.com/kelvinhe04" target="_blank">GITHUB PROFILE</a>.
+- 📬 You can view <a href="https://github.com/kelvinhe04/kelvinhe04/raw/main/Kelvin_He_CV.pdf" target="_blank">MY RESUME</a> or visit my <a href="https://github.com/kelvinhe04" target="_blank">GITHUB PROFILE</a>.
 <br>
 
 # 🛠 &nbsp;Tech Stack
