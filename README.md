@@ -49,6 +49,10 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%2313C5B0.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-%234372A5.svg?style=for-the-badge&logo=heidisql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-%234F74B5.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+
 
 #### 💻 IDEs & Editors
 
