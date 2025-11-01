@@ -17,7 +17,7 @@
 - 🔧 Skilled in: <code>Java</code>, <code>C#</code>, <code>JavaScript</code>, <code>PHP</code>, <code>Python</code>, <code>HTML</code>, <code>CSS</code>.
 - 🗃️ Experienced with databases like <code>SQL Server</code> and <code>MySQL</code>.
 - 👨‍💻 I love using technology to solve real-world <code>problems</code>.
-- 🌍 I speak <code>Spanish</code>, <code>English (B1+)</code>, <code>Mandarin (HSK4)</code>, and <code>Cantonese</code>.
+- 🌍 I speak <code>Spanish (Native)</code>, <code>English (Intermediate B1+)</code>, <code>Mandarin (Intermediate HSK4)</code>, and <code>Cantonese (Basic Conversational)</code>.
 - 🌱 Constantly learning and adapting to <code>new technologies</code> and <code>agile methodologies</code>.
 - 🤝 Strong background in <code>teamwork</code>, <code>communication</code>, and <code>problem-solving</code>.
 - 💥 You can visit <a href="https://kelvin-he.netlify.app/" target="_blank">MY WEBSITE</a>.
