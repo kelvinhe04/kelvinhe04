@@ -12,7 +12,7 @@
 
 <br><br>
 
-- 🎓 I am a <code>third-year student</code> in the <strong>Software Development and Management</strong> program at <a href="https://utp.ac.pa/" target="_blank">Technological University of Panama</a>.
+- 🎓 I am a <code>fourth-year student</code> in the <strong>Software Development and Management</strong> program at <a href="https://utp.ac.pa/" target="_blank">Technological University of Panama</a>.
 - 💻 Aspiring <code>Fullstack Developer</code>, passionate about creating frontend and backend solutions.
 - 🔧 Skilled in: <code>Java</code>, <code>C#</code>, <code>JavaScript</code>, <code>PHP</code>, <code>Python</code>, <code>HTML</code>, <code>CSS</code>.
 - 🗃️ Experienced with databases like <code>SQL Server</code> and <code>MySQL</code>.
