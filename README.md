@@ -39,6 +39,7 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 #### 🖥️ Frameworks
+
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -49,10 +50,14 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-%234F74B5.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🧰 Database Tools
+
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%2313C5B0.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-%234372A5.svg?style=for-the-badge&logo=heidisql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-%234F74B5.svg?style=for-the-badge&logo=mariadb&logoColor=white)
-
+![DBeaver](https://img.shields.io/badge/DBeaver-372923.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 #### 💻 IDEs & Editors
 
@@ -65,14 +70,13 @@
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+#### ⚙️ DevOps & Tools
 
-#### 🔧 Tools
-
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 <br><br>
 <p align="center">
@@ -120,5 +124,5 @@
   <img src="https://komarev.com/ghpvc/?username=kelvinhe04&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinhe04" /> 
 </p>
 
-Last Edited on: 01/11/2025
+Last Edited on: 03/24/2026
 
