@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-label="Kelvin He — Software Development Student">
+<defs>
+  <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="70" y1="0" x2="590" y2="0">
+    <stop offset="0" stop-color="#00c6ff"/><stop offset="1" stop-color="#6fd3a0"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" x2="1">
+    <stop offset="0" stop-color="#6fd3a0"/><stop offset=".45" stop-color="#00c6ff" stop-opacity=".55"/><stop offset="1" stop-color="#00c6ff" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect x=".5" y=".5" width="899" height="249" rx="14" fill="#0d1117" stroke="#30363d"/>
+<style>
+  .name{fill:#f0f6fc} .sub{fill:#8b949e} .dim{fill:#6e7681}
+  @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  .in{animation:fade .8s ease-out both}
+  @keyframes w0{
+    0%{width:0}
+    0.000%{width:0;animation-timing-function:steps(34,end)}
+    4.890%{width:489.6px}
+    9.074%{width:489.6px;animation-timing-function:steps(34,end)}
+    11.297%{width:0}
+    100%{width:0}
+  }
+  @keyframes c0{
+    0%{transform:translateX(0)}
+    0.000%{transform:translateX(0);animation-timing-function:steps(34,end)}
+    4.890%{transform:translateX(489.6px)}
+    9.074%{transform:translateX(489.6px);animation-timing-function:steps(34,end)}
+    11.297%{transform:translateX(0)}
+    100%{transform:translateX(0)}
+  }
+  @keyframes o0{0%{opacity:0}0.000%{opacity:1}4.890%{opacity:1}6.198%{opacity:0}7.505%{opacity:1}8.813%{opacity:0}9.074%{opacity:1}11.297%{opacity:0}}
+  #r0{animation:w0 38.24s linear infinite}
+  #k0{animation:c0 38.24s linear infinite,o0 38.24s step-end infinite}
+  @keyframes w1{
+    0%{width:0}
+    11.951%{width:0;animation-timing-function:steps(34,end)}
+    16.841%{width:489.6px}
+    21.025%{width:489.6px;animation-timing-function:steps(34,end)}
+    23.248%{width:0}
+    100%{width:0}
+  }
+  @keyframes c1{
+    0%{transform:translateX(0)}
+    11.951%{transform:translateX(0);animation-timing-function:steps(34,end)}
+    16.841%{transform:translateX(489.6px)}
+    21.025%{transform:translateX(489.6px);animation-timing-function:steps(34,end)}
+    23.248%{transform:translateX(0)}
+    100%{transform:translateX(0)}
+  }
+  @keyframes o1{0%{opacity:0}11.951%{opacity:1}16.841%{opacity:1}18.149%{opacity:0}19.456%{opacity:1}20.764%{opacity:0}21.025%{opacity:1}23.248%{opacity:0}}
+  #r1{animation:w1 38.24s linear infinite}
+  #k1{animation:c1 38.24s linear infinite,o1 38.24s step-end infinite}
+  @keyframes w2{
+    0%{width:0}
+    23.902%{width:0;animation-timing-function:steps(35,end)}
+    28.936%{width:504.0px}
+    33.120%{width:504.0px;animation-timing-function:steps(35,end)}
+    35.408%{width:0}
+    100%{width:0}
+  }
+  @keyframes c2{
+    0%{transform:translateX(0)}
+    23.902%{transform:translateX(0);animation-timing-function:steps(35,end)}
+    28.936%{transform:translateX(504.0px)}
+    33.120%{transform:translateX(504.0px);animation-timing-function:steps(35,end)}
+    35.408%{transform:translateX(0)}
+    100%{transform:translateX(0)}
+  }
+  @keyframes o2{0%{opacity:0}23.902%{opacity:1}28.936%{opacity:1}30.243%{opacity:0}31.551%{opacity:1}32.858%{opacity:0}33.120%{opacity:1}35.408%{opacity:0}}
+  #r2{animation:w2 38.24s linear infinite}
+  #k2{animation:c2 38.24s linear infinite,o2 38.24s step-end infinite}
+  @keyframes w3{
+    0%{width:0}
+    36.062%{width:0;animation-timing-function:steps(37,end)}
+    41.383%{width:532.8px}
+    45.567%{width:532.8px;animation-timing-function:steps(37,end)}
+    47.986%{width:0}
+    100%{width:0}
+  }
+  @keyframes c3{
+    0%{transform:translateX(0)}
+    36.062%{transform:translateX(0);animation-timing-function:steps(37,end)}
+    41.383%{transform:translateX(532.8px)}
+    45.567%{transform:translateX(532.8px);animation-timing-function:steps(37,end)}
+    47.986%{transform:translateX(0)}
+    100%{transform:translateX(0)}
+  }
+  @keyframes o3{0%{opacity:0}36.062%{opacity:1}41.383%{opacity:1}42.691%{opacity:0}43.998%{opacity:1}45.306%{opacity:0}45.567%{opacity:1}47.986%{opacity:0}}
+  #r3{animation:w3 38.24s linear infinite}
+  #k3{animation:c3 38.24s linear infinite,o3 38.24s step-end infinite}
+  @keyframes w4{
+    0%{width:0}
+    48.640%{width:0;animation-timing-function:steps(36,end)}
+    53.818%{width:518.4px}
+    58.002%{width:518.4px;animation-timing-function:steps(36,end)}
+    60.356%{width:0}
+    100%{width:0}
+  }
+  @keyframes c4{
+    0%{transform:translateX(0)}
+    48.640%{transform:translateX(0);animation-timing-function:steps(36,end)}
+    53.818%{transform:translateX(518.4px)}
+    58.002%{transform:translateX(518.4px);animation-timing-function:steps(36,end)}
+    60.356%{transform:translateX(0)}
+    100%{transform:translateX(0)}
+  }
+  @keyframes o4{0%{opacity:0}48.640%{opacity:1}53.818%{opacity:1}55.126%{opacity:0}56.433%{opacity:1}57.741%{opacity:0}58.002%{opacity:1}60.356%{opacity:0}}
+  #r4{animation:w4 38.24s linear infinite}
+  #k4{animation:c4 38.24s linear infinite,o4 38.24s step-end infinite}
+  @keyframes w5{
+    0%{width:0}
+    61.009%{width:0;animation-timing-function:steps(44,end)}
+    67.338%{width:633.6px}
+    71.522%{width:633.6px;animation-timing-function:steps(44,end)}
+    74.399%{width:0}
+    100%{width:0}
+  }
+  @keyframes c5{
+    0%{transform:translateX(0)}
+    61.009%{transform:translateX(0);animation-timing-function:steps(44,end)}
+    67.338%{transform:translateX(633.6px)}
+    71.522%{transform:translateX(633.6px);animation-timing-function:steps(44,end)}
+    74.399%{transform:translateX(0)}
+    100%{transform:translateX(0)}
+  }
+  @keyframes o5{0%{opacity:0}61.009%{opacity:1}67.338%{opacity:1}68.645%{opacity:0}69.953%{opacity:1}71.260%{opacity:0}71.522%{opacity:1}74.399%{opacity:0}}
+  #r5{animation:w5 38.24s linear infinite}
+  #k5{animation:c5 38.24s linear infinite,o5 38.24s step-end infinite}
+  @keyframes w6{
+    0%{width:0}
+    75.052%{width:0;animation-timing-function:steps(38,end)}
+    80.518%{width:547.2px}
+    84.702%{width:547.2px;animation-timing-function:steps(38,end)}
+    87.186%{width:0}
+    100%{width:0}
+  }
+  @keyframes c6{
+    0%{transform:translateX(0)}
+    75.052%{transform:translateX(0);animation-timing-function:steps(38,end)}
+    80.518%{transform:translateX(547.2px)}
+    84.702%{transform:translateX(547.2px);animation-timing-function:steps(38,end)}
+    87.186%{transform:translateX(0)}
+    100%{transform:translateX(0)}
+  }
+  @keyframes o6{0%{opacity:0}75.052%{opacity:1}80.518%{opacity:1}81.825%{opacity:0}83.133%{opacity:1}84.440%{opacity:0}84.702%{opacity:1}87.186%{opacity:0}}
+  #r6{animation:w6 38.24s linear infinite}
+  #k6{animation:c6 38.24s linear infinite,o6 38.24s step-end infinite}
+  @keyframes w7{
+    0%{width:0}
+    87.840%{width:0;animation-timing-function:steps(35,end)}
+    92.874%{width:504.0px}
+    97.058%{width:504.0px;animation-timing-function:steps(35,end)}
+    99.346%{width:0}
+    100%{width:0}
+  }
+  @keyframes c7{
+    0%{transform:translateX(0)}
+    87.840%{transform:translateX(0);animation-timing-function:steps(35,end)}
+    92.874%{transform:translateX(504.0px)}
+    97.058%{transform:translateX(504.0px);animation-timing-function:steps(35,end)}
+    99.346%{transform:translateX(0)}
+    100%{transform:translateX(0)}
+  }
+  @keyframes o7{0%{opacity:0}87.840%{opacity:1}92.874%{opacity:1}94.181%{opacity:0}95.489%{opacity:1}96.797%{opacity:0}97.058%{opacity:1}99.346%{opacity:0}}
+  #r7{animation:w7 38.24s linear infinite}
+  #k7{animation:c7 38.24s linear infinite,o7 38.24s step-end infinite}
+</style>
+<text class="dim in" x="40" y="52" font-family="ui-monospace,SFMono-Regular,'Cascadia Code',Menlo,Consolas,monospace" font-size="14" style="animation-delay:.05s"><tspan fill="#6fd3a0">~/kelvinhe04</tspan> <tspan>// hello, world</tspan></text>
+<text class="name in" x="38" y="126" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="-2" style="animation-delay:.15s">Kelvin He</text>
+<text class="sub in" x="40" y="160" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="17" style="animation-delay:.3s">Building frontend &amp; backend solutions · Panamá</text>
+<text x="40" y="190" font-family="ui-monospace,SFMono-Regular,'Cascadia Code',Menlo,Consolas,monospace" font-size="24" fill="#6fd3a0">&gt;</text>
+
+  <clipPath id="p0"><rect id="r0" x="70" y="166" width="0" height="34"/></clipPath>
+  <text x="70" y="190" font-family="ui-monospace,SFMono-Regular,'Cascadia Code',Menlo,Consolas,monospace" font-size="24" textLength="489.6" lengthAdjust="spacing" fill="url(#g)" clip-path="url(#p0)">Software Development Student @ UTP</text>
+  <rect id="k0" x="70" y="169" width="3" height="26" rx="1.5" fill="#6fd3a0" opacity="0"/>
+  <clipPath id="p1"><rect id="r1" x="70" y="166" width="0" height="34"/></clipPath>
+  <text x="70" y="190" font-family="ui-monospace,SFMono-Regular,'Cascadia Code',Menlo,Consolas,monospace" font-size="24" textLength="489.6" lengthAdjust="spacing" fill="url(#g)" clip-path="url(#p1)">Turning ideas into full-stack apps</text>
+  <rect id="k1" x="70" y="169" width="3" height="26" rx="1.5" fill="#6fd3a0" opacity="0"/>
+  <clipPath id="p2"><rect id="r2" x="70" y="166" width="0" height="34"/></clipPath>
+  <text x="70" y="190" font-family="ui-monospace,SFMono-Regular,'Cascadia Code',Menlo,Consolas,monospace" font-size="24" textLength="504.0" lengthAdjust="spacing" fill="url(#g)" clip-path="url(#p2)">while (alive) { learn(); build(); }</text>
+  <rect id="k2" x="70" y="169" width="3" height="26" rx="1.5" fill="#6fd3a0" opacity="0"/>
+  <clipPath id="p3"><rect id="r3" x="70" y="166" width="0" height="34"/></clipPath>
+  <text x="70" y="190" font-family="ui-monospace,SFMono-Regular,'Cascadia Code',Menlo,Consolas,monospace" font-size="24" textLength="532.8" lengthAdjust="spacing" fill="url(#g)" clip-path="url(#p3)">Java · C# · JavaScript · PHP · Python</text>
+  <rect id="k3" x="70" y="169" width="3" height="26" rx="1.5" fill="#6fd3a0" opacity="0"/>
+  <clipPath id="p4"><rect id="r4" x="70" y="166" width="0" height="34"/></clipPath>
+  <text x="70" y="190" font-family="ui-monospace,SFMono-Regular,'Cascadia Code',Menlo,Consolas,monospace" font-size="24" textLength="518.4" lengthAdjust="spacing" fill="url(#g)" clip-path="url(#p4)">Real-time apps, one commit at a time</text>
+  <rect id="k4" x="70" y="169" width="3" height="26" rx="1.5" fill="#6fd3a0" opacity="0"/>
+  <clipPath id="p5"><rect id="r5" x="70" y="166" width="0" height="34"/></clipPath>
+  <text x="70" y="190" font-family="ui-monospace,SFMono-Regular,'Cascadia Code',Menlo,Consolas,monospace" font-size="24" textLength="633.6" lengthAdjust="spacing" fill="url(#g)" clip-path="url(#p5)">National finalist @ JIC UTP 2026 · RiskTrail</text>
+  <rect id="k5" x="70" y="169" width="3" height="26" rx="1.5" fill="#6fd3a0" opacity="0"/>
+  <clipPath id="p6"><rect id="r6" x="70" y="166" width="0" height="34"/></clipPath>
+  <text x="70" y="190" font-family="ui-monospace,SFMono-Regular,'Cascadia Code',Menlo,Consolas,monospace" font-size="24" textLength="547.2" lengthAdjust="spacing" fill="url(#g)" clip-path="url(#p6)">Spanish, English, Mandarin &amp; Cantonese</text>
+  <rect id="k6" x="70" y="169" width="3" height="26" rx="1.5" fill="#6fd3a0" opacity="0"/>
+  <clipPath id="p7"><rect id="r7" x="70" y="166" width="0" height="34"/></clipPath>
+  <text x="70" y="190" font-family="ui-monospace,SFMono-Regular,'Cascadia Code',Menlo,Consolas,monospace" font-size="24" textLength="504.0" lengthAdjust="spacing" fill="url(#g)" clip-path="url(#p7)">git commit -m 'learn something new'</text>
+  <rect id="k7" x="70" y="169" width="3" height="26" rx="1.5" fill="#6fd3a0" opacity="0"/>
+<rect x="40" y="224" width="820" height="2" rx="1" fill="url(#line)"/>
+</svg>

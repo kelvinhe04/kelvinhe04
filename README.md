@@ -1,31 +1,30 @@
-<h1 align="center">Hi, I'm Kelvin He <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="Kelvin He — Software Development Student @ UTP, Aspiring Full Stack Developer">
+</div>
 
 <p align="center">
-  <a href="https://github.com/kelvinhe04/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2355F532&size=25&center=true&vCenter=true&width=700&height=100&lines=Software+Development+Student+@+UTP;Aspiring+Fullstack+Developer;Teamwork+%7C+Adaptability+%7C+Problem+Solving;Skilled+in+Java,+C%23,+JS,+PHP,+Python;Database+Management:+SQL+Server,+MySQL;Always+learning+new+technologies">
-  </a>
+  <a href="https://kelvin-he.netlify.app/"><img src="assets/pill-portfolio.svg" height="38" alt="Portfolio"></a>&nbsp;
+  <a href="https://github.com/kelvinhe04/kelvinhe04/raw/main/Kelvin_He_CV.pdf"><img src="assets/pill-resume-en.svg" height="38" alt="Resume (EN)"></a>&nbsp;
+  <a href="https://github.com/kelvinhe04/kelvinhe04/raw/main/Kelvin_He_CV_ES.pdf"><img src="assets/pill-resume-es.svg" height="38" alt="Resume (ES)"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/kelvin-he-wu/"><img src="assets/pill-linkedin.svg" height="38" alt="LinkedIn"></a>
 </p>
 
-<picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
-</picture>
+<br>
 
-<br><br>
-
-- 🎓 I am a <code>fourth-year student</code> in the <strong>Software Development and Management</strong> program at <a href="https://utp.ac.pa/" target="_blank">Technological University of Panama</a>.
-- 💻 Aspiring <code>Fullstack Developer</code>, passionate about creating frontend and backend solutions.
+- 🎓 I am a <code>fourth-year student</code> in the <strong>Software Development and Management</strong> program at <a href="https://utp.ac.pa/" target="_blank"><img src="assets/link-utp.svg" height="22" align="absmiddle" alt="Technological University of Panama"></a>.
+- <picture><img align="right" src="assets/illustration.gif" width="250px"></picture>💻 Aspiring <code>Fullstack Developer</code>, passionate about creating frontend and backend solutions.
 - 🔧 Skilled in: <code>Java</code>, <code>C#</code>, <code>JavaScript</code>, <code>PHP</code>, <code>Python</code>, <code>HTML</code>, <code>CSS</code>.
 - 🗃️ Experienced with databases like <code>SQL Server</code> and <code>MySQL</code>.
 - 👨‍💻 I love using technology to solve real-world <code>problems</code>.
 - 🌍 I speak <code>Spanish (Native)</code>, <code>English (Intermediate B1+)</code>, <code>Mandarin (Intermediate HSK4)</code>, and <code>Cantonese (Basic Conversational)</code>.
 - 🌱 Constantly learning and adapting to <code>new technologies</code> and <code>agile methodologies</code>.
 - 🤝 Strong background in <code>teamwork</code>, <code>communication</code>, and <code>problem-solving</code>.
-- 💥 You can visit <a href="https://kelvin-he.netlify.app/" target="_blank">MY WEBSITE</a>.
-- 📬 You can view <a href="https://github.com/kelvinhe04/kelvinhe04/raw/main/Kelvin_He_CV.pdf" target="_blank">MY RESUME (EN)</a> (<a href="https://github.com/kelvinhe04/kelvinhe04/raw/main/Kelvin_He_CV_ES.pdf" target="_blank">ES</a>) or visit my <a href="https://github.com/kelvinhe04" target="_blank">GITHUB PROFILE</a>.
+- 💥 You can visit <a href="https://kelvin-he.netlify.app/" target="_blank"><img src="assets/link-website.svg" height="22" align="absmiddle" alt="MY WEBSITE"></a>.
+- 📬 You can view <a href="https://github.com/kelvinhe04/kelvinhe04/raw/main/Kelvin_He_CV.pdf" target="_blank"><img src="assets/link-resume-en.svg" height="22" align="absmiddle" alt="MY RESUME (EN)"></a> (<a href="https://github.com/kelvinhe04/kelvinhe04/raw/main/Kelvin_He_CV_ES.pdf" target="_blank"><img src="assets/link-resume-es.svg" height="22" align="absmiddle" alt="ES"></a>) or visit my <a href="https://github.com/kelvinhe04" target="_blank"><img src="assets/link-github.svg" height="22" align="absmiddle" alt="GITHUB PROFILE"></a>.
+
 <br>
 
-# 🛠 &nbsp;Tech Stack
-
+<img src="assets/section-stack.svg" width="100%" alt="Tech Stack">
 
 #### 🔧 Languages
 
@@ -78,51 +77,42 @@
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-<br><br>
-<p align="center">
-  <img alt="Kelvinhe04's GitHub Stats" 
-       src="https://github-readme-stats.vercel.app/api/?username=kelvinhe04&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
-       height="192px" />
-  &nbsp;&nbsp;&nbsp;
-  <img alt="Kelvinhe04's Top Languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinhe04&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
-       height="192px" />
-</p>
+<br>
 
-## 🐍 A Snake Eating my Contributions Graph
+<img src="assets/section-projects.svg" width="100%" alt="Featured Projects">
 
 <p align="center">
-  <img src="https://github.com/kelvinhe04/kelvinhe04/blob/output/github-snake-dark.svg" alt="snake gif" />
+  <a href="https://github.com/IrvinngB/JIC-Geo"><img src="assets/project-risktrail.svg" width="49%" alt="RiskTrail"></a>
+  <a href="https://github.com/IrvinngB/segura-tu-auto/tree/actualizada"><img src="assets/project-seguratuauto.svg" width="49%" alt="SeguraTuAuto"></a>
+  <a href="https://github.com/kelvinhe04/Checkers"><img src="assets/project-checkers.svg" width="49%" alt="Checkers"></a>
+  <a href="https://github.com/kelvinhe04/pokemon-battle-rooms"><img src="assets/project-pokemon.svg" width="49%" alt="Pokémon Battle Rooms"></a>
+  <a href="https://github.com/kelvinhe04/pollclass"><img src="assets/project-pollclass.svg" width="49%" alt="PollClass"></a>
+  <a href="https://github.com/kelvinhe04/IntelliDocs"><img src="assets/project-intellidocs.svg" width="49%" alt="IntelliDocs"></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kelvin-he-wu/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style=" height:32px;"/>
-</a>&nbsp;&nbsp;&nbsp;
+<p align="right">More on <a href="https://kelvin-he.netlify.app/#projects"><img src="assets/link-my-portfolio.svg" height="22" align="absmiddle" alt="my portfolio"></a> and <a href="https://github.com/kelvinhe04?tab=repositories"><img src="assets/link-github-short.svg" height="22" align="absmiddle" alt="GitHub"></a>.</p>
 
-<a href="https://discord.com/users/606164676845371403" target="_blank">
-  <img src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/main/icons/Discord.png" alt="Discord" style="height:32px;"/>
-</a>&nbsp;&nbsp;&nbsp;
+<br>
 
-<a href="mailto:kelvinhe04@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/main/icons/Gmail.webp" alt="Gmail" style=" height:32px;"/>
-</a>&nbsp;&nbsp;&nbsp;
+<img src="assets/section-snake.svg" width="100%" alt="Commit Snake">
 
-<a href="https://www.instagram.com/khelvinw/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" style=" height:32px;"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/kelvin.he.7505/?locale=es_LA" target="_blank">
-  <img src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/main/icons/Facebook.webp" alt="Facebook" style=" height:32px;"/>
-</a>
+<p align="center">
+  <img alt="Snake eating my contributions graph" src="https://raw.githubusercontent.com/kelvinhe04/kelvinhe04/output/github-snake-dark.svg" width="100%">
 </p>
 
 <br>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kelvinhe04&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinhe04" /> 
+<img src="assets/section-connect.svg" width="100%" alt="Connect">
+
+<p>
+  <a href="https://www.linkedin.com/in/kelvin-he-wu/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" alt="LinkedIn"></a>&nbsp;
+  <a href="https://discord.com/users/606164676845371403"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="40" alt="Discord"></a>&nbsp;
+  <a href="mailto:kelvinhe04@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" alt="Gmail"></a>&nbsp;
+  <a href="https://www.instagram.com/khelvinw/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40" alt="Instagram"></a>&nbsp;
+  <a href="https://www.facebook.com/kelvin.he.7505/?locale=es_LA"><img src="assets/facebook.svg" width="40" alt="Facebook"></a>
 </p>
 
-Last Edited on: 03/24/2026
-
+<p align="right">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fabacus.jasoncameron.dev%2Fhit%2Fkelvinhe04-profile%2Fviews&query=%24.value&label=PROFILE%20VIEWS&style=for-the-badge&labelColor=111729&color=0ea5d9" alt="Profile views">
+  <a href="https://github.com/kelvinhe04?tab=followers"><img src="https://img.shields.io/github/followers/kelvinhe04?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&labelColor=111729&color=0ea5d9" alt="GitHub followers"></a>
+</p>
